@@ -3,7 +3,7 @@
 ## INFO
 Please note that this website is still under development
 
-![Screenshot](https://i.imgur.com/7TLRvA9.png)
+![Screenshot](https://i.imgur.com/exG3Lhl.png)
 
 ## Installation
 

@@ -36,7 +36,7 @@
     display: block;
     float: left;
     font-size: 2em;
-    padding: 22px 20px;
+    padding: 22px 30px;
     text-decoration: none;
 }
 
@@ -143,6 +143,7 @@
 }
 
 .main-second-text {
+    font-size: 18px;
     color: rgba(255, 255, 255, 0.685);
 }
 
