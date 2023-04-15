@@ -11,8 +11,6 @@ Please note that this website is still under development
 ```
 git clone https://github.com/MaxixSVK/discord-bot-web-template
 ``` 
-## Usage
- - Just open index.html
 
 ## Customization
  - There are tags like [YOURBOT] [BOTINVITELINK] [SUPPORTLINK] [FEATURE] , change them as you like
