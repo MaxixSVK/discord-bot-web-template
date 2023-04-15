@@ -9,7 +9,7 @@ Please note that this website is still under development
 
  - Clone repository or download ZIP
 ```
-git clone https://github.com/MaxixSVK/discord-bot-web-template.git
+git clone https://github.com/MaxixSVK/discord-bot-web-template
 ``` 
 ## Usage
  - Just open index.html
