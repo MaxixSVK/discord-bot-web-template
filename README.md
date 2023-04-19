@@ -1,6 +1,5 @@
 # Discord bot web template
 Responsive website for your Discord bot that looks good on all devices
-Please note that this website is still under development
 
 ## Main page
 
