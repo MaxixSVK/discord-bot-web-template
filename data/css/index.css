@@ -1,12 +1,15 @@
 * {
-    font-family: 'Poppins', sans-serif !important;
-
+    font-family: sans-serif;
     text-decoration: none;
     transition-duration: 0.4s;
     margin: 0;
     padding: 0;
     color: white;
     user-select: none;
+}
+
+html {
+    box-sizing: border-box;
 }
 
 html::-webkit-scrollbar {
@@ -152,10 +155,6 @@ html::-webkit-scrollbar-thumb {
     width: 100%;
 }
 
-#everything {
-    background-color: #005FA8;
-}
-
 #main {
     background-color: #002541;
     padding-left: 5%;
@@ -210,12 +209,15 @@ html::-webkit-scrollbar-thumb {
     box-shadow: 0 0 5px #1f2d38, 0 0 25px #1f2d38, 0 0 25px #1f2d38;
 }
 
-html {
-    box-sizing: border-box;
+#waves {
+    display: block;
+    background-color: #005FA8;
 }
+
 
 #second-text {
     text-align: center;
+    background-color: #005FA8;
 }
 
 #second-text-main {
@@ -230,6 +232,7 @@ html {
 }
 
 #row {
+    background-color: #005FA8;
     padding-top: 5%;
     text-align: center;
 }
@@ -286,4 +289,9 @@ html {
 .container-t2 {
     padding: 20px 10px;
     font-size: 18px;
+}
+
+#waves2 {
+    display: block;
+    background-color: #002541;
 }
