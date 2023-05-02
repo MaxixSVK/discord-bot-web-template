@@ -6,12 +6,7 @@ Please note that this website is still under development
 
 ## Main page
 
-![Screenshot](https://i.imgur.com/vvcZ3RC.png)
-
-## Features page
-
-![Screenshot2](https://i.imgur.com/l0Hu3y0.png)
-
+![Screenshot](https://i.imgur.com/ItwIt1y.jpeg)
 
 ## Installation
 
