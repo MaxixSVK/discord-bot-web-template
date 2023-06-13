@@ -1,7 +1,6 @@
 * {
     font-family: sans-serif;
     text-decoration: none;
-    transition-duration: 0.4s;
     margin: 0;
     padding: 0;
     color: white;
@@ -9,6 +8,7 @@
 }
 
 html {
+    scroll-behavior: smooth;
     box-sizing: border-box;
 }
 
@@ -59,7 +59,12 @@ html::-webkit-scrollbar-thumb {
     text-decoration: none;
 }
 
+.menu-link {
+    transition-duration: 0.4s;
+}
+
 #header #name:hover {
+    transition-duration: 0.4s;
     color: #005FA8;
 }
 
@@ -173,6 +178,7 @@ html::-webkit-scrollbar-thumb {
 }
 
 #main-button1 {
+    transition-duration: 0.4s;
     background-color: #005FA8;
     display: inline-block;
     font-weight: bold;
@@ -187,11 +193,13 @@ html::-webkit-scrollbar-thumb {
 }
 
 #main-button1:hover {
+    transition-duration: 0.4s;
     background-color: #005FA8;
     box-shadow: 0 0 5px #005FA8, 0 0 25px #005FA8, 0 0 25px #005FA8;
 }
 
 #main-button2 {
+    transition-duration: 0.4s;
     background-color: #1f2d38;
     display: inline-block;
     font-weight: bold;
@@ -205,6 +213,7 @@ html::-webkit-scrollbar-thumb {
 }
 
 #main-button2:hover {
+    transition-duration: 0.4s;
     background-color: #1f2d38;
     box-shadow: 0 0 5px #1f2d38, 0 0 25px #1f2d38, 0 0 25px #1f2d38;
 }
@@ -294,4 +303,10 @@ html::-webkit-scrollbar-thumb {
 #waves2 {
     display: block;
     background-color: #002541;
+}
+
+#footer {
+    position: relative;
+    text-align: center;
+    color: white;
 }
